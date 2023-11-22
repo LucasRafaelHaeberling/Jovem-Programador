@@ -1,0 +1,39 @@
+dor= controle de mercado(manutençao,empregados)
+//problema do cliente
+class mercado
+valor 
+valortotal
+data
+
+//definindo meus atributos
+
+function calcular() {
+    valor C= A+B
+    valortotal = C
+}
+
+//criando funçao para descobrir o valor total
+
+function pagamento(){
+    data
+    valor
+}
+
+//criando funçao para agendar o pagamento
+manutençao extends mercado
+
+//fiz a subclasse herdar da superclasse
+//criei as subclasses
+class manutençao
+pagamento()
+calcular()
+function diaManutençao(){
+    data
+}
+
+empregados extends mercado
+
+//fiz a subclasse herdar da superclasse
+
+class empregados
+pagamento()

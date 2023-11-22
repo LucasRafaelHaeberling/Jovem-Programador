@@ -20,7 +20,7 @@ PILARES OO:
 Encapsulamento: É o conceito de agrupar dados (atributos) e os métodos que operam nesses dados em uma única unidade, ou seja, em um objeto. O encapsulamento ajuda a ocultar a implementação interna e a expor apenas a interface necessária.
 
 Herança: Permite que uma classe herde características de outra. A classe que é herdada é chamada de superclasse, e a classe que herda é chamada de subclasse. Isso promove a reutilização de código e a criação de hierarquias de classes.
-
+                                                                                             
 Polimorfismo: Permite que objetos de diferentes classes sejam tratados de maneira uniforme. O polimorfismo pode ocorrer por meio de sobrecarga de método (métodos com o mesmo nome, mas com diferentes parâmetros) e por meio de substituição de método (métodos com a mesma assinatura em classes diferentes).
 
 Abstração: É a capacidade de modelar objetos do mundo real como abstrações em software. Abstrair significa focar nos aspectos mais relevantes de um objeto, ignorando os detalhes menos importantes.
