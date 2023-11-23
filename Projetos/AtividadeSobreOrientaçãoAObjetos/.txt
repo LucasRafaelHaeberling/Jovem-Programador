@@ -25,6 +25,7 @@ manutençao extends mercado
 //fiz a subclasse herdar da superclasse
 //criei as subclasses
 class manutençao
+
 pagamento()
 calcular()
 function diaManutençao(){
@@ -36,4 +37,7 @@ empregados extends mercado
 //fiz a subclasse herdar da superclasse
 
 class empregados
-pagamento()
+salario
+
+
+pagamento() = salario
